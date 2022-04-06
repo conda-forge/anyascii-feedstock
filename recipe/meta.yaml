@@ -1,5 +1,5 @@
 {% set name = "anyascii" %}
-{% set version = "0.3.0" %}
+{% set version = "0.3.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/anyascii-{{ version }}.tar.gz
-  sha256: 24f27431fb64c6c93a33125fb66f8cba007a5262bc1faabeafeda5f4bb70b593
+  sha256: dedf57728206e286c91eed7c759505a5e45c8cd01367dd40c2f7248bb15c11f6
 
 build:
   number: 0
