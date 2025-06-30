@@ -9,6 +9,8 @@ Package license: MIT
 
 Summary: Unicode to ASCII transliteration
 
+Development: https://github.com/anyascii/anyascii/tree/master/impl/python
+
 Current build status
 ====================
 
